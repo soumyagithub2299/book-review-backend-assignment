@@ -146,5 +146,3 @@ This README includes all the requested information:
 6. Authentication flow
 7. Key packages used
 8. Important notes for security
-
-The content is ready to copy and paste into your README.md file. You may want to adjust the formatting or add additional sections as needed for your specific project requirements.
