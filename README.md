@@ -39,7 +39,7 @@ book-review-api/
 ├── middlewares/
 │   └── auth.js              # JWT authentication middleware
 ├── migrations/
-│   └── 20231201000000_initial.js  # Database schema migration
+│   └── 20250528142004_create_users_books_reviews.js  # Database schema migration
 ├── models/
 │   ├── User.js              # User model
 │   ├── Book.js              # Book model with relationships
